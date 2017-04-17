@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Class.Lab3b.ConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NetworkAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">52.187.5.50</Value>
+    </Setting>
+    <Setting Name="NetworkPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2021</Value>
+    </Setting>
+    <Setting Name="RpcUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">multichainrpc</Value>
+    </Setting>
+    <Setting Name="RpcPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D6v5yB8DVTrjMZ85QEMTHBib6X85Drp2o8jyASCKtEPS</Value>
+    </Setting>
+    <Setting Name="ChainName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chain1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
